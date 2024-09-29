@@ -1,0 +1,15 @@
+Modules Required:
+OpenCV
+FaceMeshDetetctor
+Tkinter
+Dlib
+Mediapipe
+Tensorflow
+
+Files Required:
+gestures.names
+data.pickle
+mp_hand_gesture
+
+Implementation Steps:
+Install all the additional modules to the system using PIP install command in the Command prompt. PIP install opencv -python PIP install dlib PIP install FaceMeshDetector PIP install mediapipe PIP install tensorflow
